@@ -1,0 +1,3 @@
+- Hi, I’m @jokesondrew
+- I’m interested in learning code to make software and games, for personal learning and enjoyment
+- I’m currently learning python
